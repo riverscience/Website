@@ -3,7 +3,7 @@ title: "Home"
 output: html_document
 ---
 
-## Welcome to Dr. Praskievicz's River and Hydrology Lab
+## Welcome to Dr. Praskievicz's River and Water Resources Lab
 
 </div>
 <div class="col-sm-6">

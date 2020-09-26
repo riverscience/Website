@@ -1,0 +1,24 @@
+name: "Rajesh Sigdel"
+navbar:
+  title: "RiverAndHydrologyLab"
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "Articles and Publications"
+      icon: fa-book
+      href: Journal.html
+    - text: "Projects"
+      icon: fa-laptop
+      href: Projects.html
+    - text: "About the Lab"
+      icon: fa-user
+      href: About.html
+    - text: "Team"
+      icon: fa-people-carry
+      href: Team.html
+output_dir: "docs"
+output:
+  html_document:
+    css: style_web.css
+    theme: cosmo

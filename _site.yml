@@ -2,7 +2,7 @@ name: "Sarah P"
 navbar:
   title: "RiverAndWaterResources"
   left:
-    - text: "Home"
+    - text: "About the Lab"
       href: index.html
       icon: fa-home
     - text: "Articles and Publications"
@@ -21,4 +21,4 @@ output_dir: "docs"
 output:
   html_document:
     css: style_web.css
-    theme: cosmo
+    theme: flatly

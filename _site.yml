@@ -2,7 +2,7 @@ name: "Sarah P"
 navbar:
   title: "RiverAndWaterResources"
   left:
-    - text: "About the Lab"
+    - text: "Home"
       href: index.html
       icon: fa-home
     - text: "Articles and Publications"
@@ -11,9 +11,6 @@ navbar:
     - text: "Projects"
       icon: fa-laptop
       href: Projects.html
-    - text: "About the Lab"
-      icon: fa-user
-      href: About.html
     - text: "Team"
       icon: fa-people-carry
       href: Team.html

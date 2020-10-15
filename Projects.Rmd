@@ -8,7 +8,7 @@ output: html_document
 <div class="col-sm-6">
 
 ![](images/students.jpg)
-*image_caption*
+*Dr. Praskievicz (right) and students doing fieldwork on North Buffalo Creek in Greensboro.*
 
 </div>
 
@@ -23,6 +23,7 @@ collected and analyzed by the students can be used for real-world applications, 
 evaluating the effectiveness of stream enhancement projects and addressing issues of
 environmental injustice.
 
+\
 \
 \
 \

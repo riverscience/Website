@@ -1,22 +1,106 @@
 ---
 title: "Team"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    collapsed: false
-    number_sections: false
-    df_print: paged
+output: html_document
 ---
 
-## Current Members
+
+<style type="text/css">
+body {
+  font-size: 12pt;
+}
+
+h1, h2, h3{
+  color: #4682B4;
+}
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+
+hr {
+  border-top: 5px solid #F0F8FF;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+img {
+  margin-right: 20px;
+  box-shadow: 5px 5px 10px #ccc;
+}
+
+</style>
+
+## Current and Past Members
+
+\
+
+<div class="col-sm-5">
+
+![](images/EBC.jpg)
+
+</div>
+
+**Dr. Sarah Praskievicz** is an Assistant Professor in the Department of Geography, Environment,
+and Sustainability at the University of North Carolina at Greensboro. Originally from Maine, she
+moved with her family to Oregon as a teenager and immediately fell in love with the rivers,
+forests, and mountains of the Pacific Northwest. She earned her Ph.D. in Geography from the
+University of Oregon in 2014, with her dissertation research focusing on impacts of climate
+change on the hydrology and geomorphology of snowmelt-dominated rivers. Her greatest
+passion is hiking and outdoor adventure, both close to home and all over the world. She has
+traveled and hiked on six continents.
 
 
-1. Dr. Praskievicz - PI - Short Bio with picture
-2. Rajesh Sigdel- PhD. student and Lab member - Short Bio with picture
-3. Nathan - PhD. Student and Lab member - Short Bio with picture
-3. Stephanie - Undergraduate student and lab member - short Bio with a picture
+</div>
 
-## Past member
+\
+\
 
-1. Brent - Short Bio and update where he is working 
+---
+
+<div class="col-sm-5">
+
+![](images/Nathan.jpg)
+
+</div>
+
+**Nathan A. Rector, Ph.D. student:** Originally from Texas, USA, Nathan has worked in the
+outdoors for 13 years. He has traveled around the world while serving in the US. Marines, then
+finished his Master&#39;s degree at Stephen F. Austin State University while running the Outdoor
+Recreation Program as a graduate assistant. He then became a field instructor for the National
+Outdoor Leadership School, leading extended expeditions in Alaska, Wyoming, and Idaho.
+Nathan served as the Coordinator for Iowa State University Outdoor Recreation Program, and
+Head of Outdoor Education at the Wooodstock School in the Indian Himalayas where his
+certifications from the A.M.G.A.(American Mountain Guide Association) as a Single Pitch
+Instructor, Leave No Trace Master Educator and his WMI Wilderness First Responder
+certification allowed him to teach and impact students in the field of outdoor education and
+recreation in a positive manner for themselves and their environment. Nathan now works as the
+Assistant Director of Outdoor Recreation for UNCG in the Kaplan Center and is working on his
+Ph.D. in Geography with a focus on Environmental Sustainability. Nathan has traveled around
+the world multiple times both on personal trips and while leading students into the outdoors and
+loves introducing students how to live outside sustainably. 
+Nathan&#39;s research is focused on the visibility of climate change in the Gangotri Glacier and
+Ganges headwaters and the subsequent effects on the Hindu pilgrimage to that area. 
+When not working, Nathan lives on a small farm outside of Greensboro where he grows and
+raises most of his food in a sustainable manner. When not tending to the farm he enjoys whatever
+outdoor activity that is best for the season: skiing, sailing, backpacking, running trails, rock
+climbing, or paddling trips with his German Shorthair pointer, Miss Kitty.
+
+
+---
+
+<div class="col-sm-5">
+
+![](images/Brent.jpeg)
+
+</div>
+
+**Brent Brackett, M.A. 2020:** Brent graduated with his M.A. in Applied Geography from UNCG
+in 2020. His thesis research focused on remote-sensing classification of flooding on North
+Carolina’s Neuse River from hurricanes Floyd, Matthew, and Florence. He is now working with
+the USDA Natural Resources Conservations Service’s East Remote Sensing Lab in Greensboro,
+about 3.7 miles from the Graham building where the GES department is housed. In this position,
+he is mapping and georeferencing high-resolution images of conservation territory, wetlands, and
+farmlands in the eastern US. The lab works directly with the USDA and other agencies to
+provide data and imagery as requested.

@@ -13,53 +13,53 @@ output: html_document
 
 1. Praskievicz, S., and C. Luo*. 2020. Environmental instream flows to support physical habitat for freshwater biodiversity in Alabama’s rivers. Southeastern Naturalist, in press.
 
-1. Praskievicz, S. 2020. From Hetch Hetchy to the Cuyahoga: How rivers shaped the American environmental movement. The Professional Geographer, in press. DOI: 10.1080/00330124.2020.1800494
+1. Praskievicz, S. 2020. From Hetch Hetchy to the Cuyahoga: How rivers shaped the American environmental movement. The Professional Geographer, in press. [DOI: 10.1080/00330124.2020.1800494](https://doi.org/DOI: 10.1080/00330124.2020.1800494)
 
-1. Praskievicz, S., S. Carter, J. Dhondia, and M. Follum. 2020. Flood-inundation modeling in an operational context: Sensitivity to topographic resolution and Manning’s n. Journal of Hydroinformatics, in press. DOI: 10.2166/hydro.2020.005
+1. Praskievicz, S., S. Carter, J. Dhondia, and M. Follum. 2020. Flood-inundation modeling in an operational context: Sensitivity to topographic resolution and Manning’s n. Journal of Hydroinformatics 22:5. [DOI: 10.2166/hydro.2020.005](https://doi.org/DOI: 10.2166/hydro.2020.005)  
 
-1. Hossain Anni*, A., S. Cohen, and S. Praskievicz. 2020. Sensitivity of urban flood simulations to stormwater infrastructure and soil infiltration. Journal of Hydrology 588:125028. DOI: 10.1016/j.jhydrol.2020.125028
+1. Hossain Anni*, A., S. Cohen, and S. Praskievicz. 2020. Sensitivity of urban flood simulations to stormwater infrastructure and soil infiltration. Journal of Hydrology 588:125028. [DOI: 10.1016/j.jhydrol.2020.125028](https://doi.org/10.1016/j.jhydrol.2020.125028)
 
-1. Praskievicz, S., and C. Luo*. 2020. Assessment of flow-ecology relationships for environmental instream flow standards: A synthesis focused on the Southeast USA. Hydrological Sciences Journal 65:571-582. DOI: 10.1080/02626667.2020.1714051
+1. Praskievicz, S., and C. Luo*. 2020. Assessment of flow-ecology relationships for environmental instream flow standards: A synthesis focused on the Southeast USA. Hydrological Sciences Journal 65:571-582. [DOI: 10.1080/02626667.2020.1714051](https://doi.org/DOI: 10.1080/02626667.2020.1714051)
 
-1. Praskievicz, S. 2019. The myth of abundance: Water resources in humid regions. Water Policy 21:1065-1080. DOI: 10.2166/wp.2019.228
+1. Praskievicz, S. 2019. The myth of abundance: Water resources in humid regions. Water Policy 21:1065-1080. [DOI: 10.2166/wp.2019.228](https://doi.org/DOI: 10.2166/wp.2019.228)
 
-1. Shastry*, A., R. Egbert*, F. Aristizabal*, C. Luo*, C.W. Yu*, and S. Praskievicz. 2019. Using steady-state backwater analysis to predict inundated area from National Water Model streamflow simulations. Journal of the American Water Resources Association 55:940-951. DOI: 10.1111/1752-1688.12785
+1. Shastry*, A., R. Egbert*, F. Aristizabal*, C. Luo*, C.W. Yu*, and S. Praskievicz. 2019. Using steady-state backwater analysis to predict inundated area from National Water Model streamflow simulations. Journal of the American Water Resources Association 55:940-951. [DOI: 10.1111/1752-1688.12785](https://doi.org/DOI: 10.1111/1752-1688.12785)
 
-1. Praskievicz, S., and C. Luo*. 2019. Unsupervised hydrologic classification of rivers: Watershed controls on natural and anthropogenic flow regimes, Alabama, USA. Hydrological Processes 33:1231-1244. DOI: 10.1002/hyp.13394 
+1. Praskievicz, S., and C. Luo*. 2019. Unsupervised hydrologic classification of rivers: Watershed controls on natural and anthropogenic flow regimes, Alabama, USA. Hydrological Processes 33:1231-1244. [DOI: 10.1002/hyp.13394](https://doi.org/DOI: 10.1002/hyp.13394)
 
-1. Praskievicz, S., C. Luo*, B. Bearden, and A. Ernest. 2018. Evaluation of low-flow metrics as environmental instream flow standards during long-term average and 2016 drought conditions: Tombigbee River Basin, Alabama and Mississippi. Water Policy 20:1240-1255. DOI: 10.2166/wp.2018.023
+1. Praskievicz, S., C. Luo*, B. Bearden, and A. Ernest. 2018. Evaluation of low-flow metrics as environmental instream flow standards during long-term average and 2016 drought conditions: Tombigbee River Basin, Alabama and Mississippi. Water Policy 20:1240-1255. [DOI: 10.2166/wp.2018.023](https://doi.org/10.2166/wp.2018.023)
 
-1. Praskievicz, S. 2018. Downscaling climate-model output in mountainous terrain using local topographic lapse rates for hydrologic modeling of climate-change impacts. Physical Geography 39:99-117. DOI: 10.1080/02723646.2017.1378555
+1. Praskievicz, S. 2018. Downscaling climate-model output in mountainous terrain using local topographic lapse rates for hydrologic modeling of climate-change impacts. Physical Geography 39:99-117. [DOI: 10.1080/02723646.2017.1378555](https://doi.org/10.1080/02723646.2017.1378555)
 
-1. Praskievicz, S. 2018. River classification as a geographic tool in the age of big data and global change. Geographical Review 108:120-137. DOI: 10.1111/GERE.12251
+1. Praskievicz, S. 2018. River classification as a geographic tool in the age of big data and global change. Geographical Review 108:120-137. [DOI: 10.1111/GERE.12251](https://doi.org/10.1111/GERE.12251)
 
-1. Praskievicz, S., and E. Buege*. 2017. Remote-sensing hydraulic characterization of channel habitat units in a tropical montane river: Bladen River, Belize. Remote Sensing 9:1295. DOI: 10.3390/rs9121295
+1. Praskievicz, S., and E. Buege*. 2017. Remote-sensing hydraulic characterization of channel habitat units in a tropical montane river: Bladen River, Belize. Remote Sensing 9:1295. [DOI: 10.3390/rs9121295](https://doi.org/10.3390/rs9121295)
 
 1. Perry, D., and S. Praskievicz. 2017. A new era of big infrastructure? [Re-]developing water storage in the U.S. West in the context of climate change and environmental regulation. Water Alternatives 10:134-151.
 
-1. Praskievicz, S. 2016. Modeling hillslope sediment yield using rainfall simulator field experiments and partial least squares regression: Cahaba River watershed, Alabama (USA). Environmental Earth Sciences 75:1324. DOI: 10.1007/s12665-016-6149-5
+1. Praskievicz, S. 2016. Modeling hillslope sediment yield using rainfall simulator field experiments and partial least squares regression: Cahaba River watershed, Alabama (USA). Environmental Earth Sciences 75:1324. [DOI: 10.1007/s12665-016-6149-5](https://doi.org/10.1007/s12665-016-6149-5)
 
-1. Praskievicz, S. 2016. Impacts of projected climate changes on streamflow and sediment transport for three snowmelt-dominated rivers in the interior Pacific Northwest. River Research and Applications 32:4-17. DOI: 10.1002/rra.2841
+1. Praskievicz, S. 2016. Impacts of projected climate changes on streamflow and sediment transport for three snowmelt-dominated rivers in the interior Pacific Northwest. River Research and Applications 32:4-17. [DOI: 10.1002/rra.2841](https://doi.org/10.1002/rra.2841)
 
-1. Marshall, J., Roering, J., Bartlein, P., Gavin, D., Granger, D., Rempel, A., Praskievicz, S., and Hales, T. 2015. Seeing frost for the trees: Did climate increase erosion in unglaciated landscapes during the Late Pleistocene? Science Advances 1:e1500715. DOI: 10.1126/sciadv.1500715
+1. Marshall, J., Roering, J., Bartlein, P., Gavin, D., Granger, D., Rempel, A., Praskievicz, S., and Hales, T. 2015. Seeing frost for the trees: Did climate increase erosion in unglaciated landscapes during the Late Pleistocene? Science Advances 1:e1500715. [DOI: 10.1126/sciadv.1500715](https://doi.org/10.1126/sciadv.1500715)
 
-1. Praskievicz, S. 2015. A coupled hierarchical modeling approach to simulating the geomorphic response of river systems to anthropogenic climate change. Earth Surface Processes and Landforms 40:1616-1630. DOI: 10.1002/esp.3740
+1. Praskievicz, S. 2015. A coupled hierarchical modeling approach to simulating the geomorphic response of river systems to anthropogenic climate change. Earth Surface Processes and Landforms 40:1616-1630. [DOI: 10.1002/esp.3740](https://doi.org/10.1002/esp.3740)
 
-1. Praskievicz, S. and P. Bartlein. 2014. Hydrologic modeling using elevationally adjusted NARR and NARCCAP regional climate-model simulations: Tucannon River, Washington. Journal of Hydrology 517:803-814. DOI: 10.1016/j.jhydrol.2014.06.017
+1. Praskievicz, S. and P. Bartlein. 2014. Hydrologic modeling using elevationally adjusted NARR and NARCCAP regional climate-model simulations: Tucannon River, Washington. Journal of Hydrology 517:803-814. [DOI: 10.1016/j.jhydrol.2014.06.017](https://doi.org/10.1016/j.jhydrol.2014.06.017)
 
 1. Chang, H., S. Praskievicz, and H. Parandvash. 2014. Sensitivity of urban water consumption to weather and climate variability at multiple temporal scales: The case of Portland, Oregon. International Journal of Geospatial and Environmental Research 1:7. 
 
-1. Praskievicz, S., and H. Chang. 2011. Impacts of climate change and urban development on water resources in the Tualatin River Basin, Oregon. Annals of the American Association of Geographers 101:249-271. DOI: 10.1080/00045608.2010.544934
+1. Praskievicz, S., and H. Chang. 2011. Impacts of climate change and urban development on water resources in the Tualatin River Basin, Oregon. Annals of the American Association of Geographers 101:249-271. [DOI: 10.1080/00045608.2010.544934](https://doi.org/10.1080/00045608.2010.544934)
 
-1. Praskievicz, S., and H Chang. 2009. A review of hydrological modelling of basin-scale climate change and urban development impacts. Progress in Physical Geography 33:650-671. DOI: 10.1177/0309133309348098
+1. Praskievicz, S., and H Chang. 2009. A review of hydrological modelling of basin-scale climate change and urban development impacts. Progress in Physical Geography 33:650-671. [DOI: 10.1177/0309133309348098](https://doi.org/10.1177/0309133309348098)
 
-1. Praskievicz, S., and H. Chang. 2009. Identifying the relation between urban water consumption and weather variables in Seoul, Korea. Physical Geography 30:324-337. DOI: 10.2747/0272-3646.30.4.324
+1. Praskievicz, S., and H. Chang. 2009. Identifying the relation between urban water consumption and weather variables in Seoul, Korea. Physical Geography 30:324-337. [DOI: 10.2747/0272-3646.30.4.324](https://doi.org/10.2747/0272-3646.30.4.324)
 
-1. Praskievicz, S., and H. Chang. 2009. Winter precipitation intensity and ENSO/PDO variability in the Willamette Valley of Oregon. International Journal of Climatology 29:2033-2039. DOI: 10.1002/joc.1838
+1. Praskievicz, S., and H. Chang. 2009. Winter precipitation intensity and ENSO/PDO variability in the Willamette Valley of Oregon. International Journal of Climatology 29:2033-2039. [DOI: 10.1002/joc.1838](https://doi.org/10.1002/joc.1838)
 
 
 ## Other publications
 1. Praskievicz, S. 2019. “Reading a river” through Google Scholar hyperlinks: Comparing four major international river systems. In Handbook of the Changing World Language Map, eds. S. Brunn and R. Kehrein. Berlin, Germany: Springer.
 
-1. Cohen, S., S. Praskievicz, and D.R. Maidment. 2018. Featured Collection introduction: National Water Model. Journal of the American Water Resources Association 54:767-769. DOI: 10.1111/1752-1688.12664
+1. Cohen, S., S. Praskievicz, and D.R. Maidment. 2018. Featured Collection introduction: National Water Model. Journal of the American Water Resources Association 54:767-769. [DOI: 10.1111/1752-1688.12664](https://doi.org/10.1111/1752-1688.12664)
 

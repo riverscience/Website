@@ -1,5 +1,5 @@
 ---
-title: "Publications and Conference"
+title: "Publications"
 output: html_document
 ---
 
@@ -35,7 +35,7 @@ output: html_document
 
 1. Praskievicz, S., and E. Buege*. 2017. Remote-sensing hydraulic characterization of channel habitat units in a tropical montane river: Bladen River, Belize. Remote Sensing 9:1295. [DOI: 10.3390/rs9121295](https://doi.org/10.3390/rs9121295)
 
-1. Perry, D., and S. Praskievicz. 2017. A new era of big infrastructure? [Re-]developing water storage in the U.S. West in the context of climate change and environmental regulation. Water Alternatives 10:134-151.
+1. Perry, D., and S. Praskievicz. 2017. A new era of big infrastructure? [Re-]developing water storage in the U.S. West in the context of climate change and environmental regulation. Water Alternatives 10:134-151. [Click here](http://www.water-alternatives.org/index.php/alldoc/articles/vol10/v10issue2/363-a10-2-13/file)
 
 1. Praskievicz, S. 2016. Modeling hillslope sediment yield using rainfall simulator field experiments and partial least squares regression: Cahaba River watershed, Alabama (USA). Environmental Earth Sciences 75:1324. [DOI: 10.1007/s12665-016-6149-5](https://doi.org/10.1007/s12665-016-6149-5)
 
@@ -47,11 +47,11 @@ output: html_document
 
 1. Praskievicz, S. and P. Bartlein. 2014. Hydrologic modeling using elevationally adjusted NARR and NARCCAP regional climate-model simulations: Tucannon River, Washington. Journal of Hydrology 517:803-814. [DOI: 10.1016/j.jhydrol.2014.06.017](https://doi.org/10.1016/j.jhydrol.2014.06.017)
 
-1. Chang, H., S. Praskievicz, and H. Parandvash. 2014. Sensitivity of urban water consumption to weather and climate variability at multiple temporal scales: The case of Portland, Oregon. International Journal of Geospatial and Environmental Research 1:7. 
+1. Chang, H., S. Praskievicz, and H. Parandvash. 2014. Sensitivity of urban water consumption to weather and climate variability at multiple temporal scales: The case of Portland, Oregon. International Journal of Geospatial and Environmental Research 1:7. [Click here](https://dc.uwm.edu/cgi/viewcontent.cgi?article=1010&context=ijger)
 
 1. Praskievicz, S., and H. Chang. 2011. Impacts of climate change and urban development on water resources in the Tualatin River Basin, Oregon. Annals of the American Association of Geographers 101:249-271. [DOI: 10.1080/00045608.2010.544934](https://doi.org/10.1080/00045608.2010.544934)
 
-1. Praskievicz, S., and H Chang. 2009. A review of hydrological modelling of basin-scale climate change and urban development impacts. Progress in Physical Geography 33:650-671. [DOI: 10.1177/0309133309348098](https://doi.org/10.1177/0309133309348098)
+1. Praskievicz, S., and H Chang. 2009. A review of hydrological modelling of basin-scale climate change and urban development impacts. Progress in Physical Geography 33:650-671. [DOI: 10.1177/0309133309348098](https://doi.org/10.1177/0309133309348098).
 
 1. Praskievicz, S., and H. Chang. 2009. Identifying the relation between urban water consumption and weather variables in Seoul, Korea. Physical Geography 30:324-337. [DOI: 10.2747/0272-3646.30.4.324](https://doi.org/10.2747/0272-3646.30.4.324)
 

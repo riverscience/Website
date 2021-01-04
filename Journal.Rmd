@@ -5,15 +5,17 @@ output: html_document
 
 
 ## Peer-reviewed
-
-
+  
+  
 *student author
 
-1. Buege*, E., P. Esselman, and S. Praskievicz. 2020. Hydrogeomorphological controls on reach-scale distributions of cichlid nesting sites in a small Central American river. Ecology of Freshwater Fish, in press.
+1. Praskievicz, S., and R. Sigdel*. 2021. Loading of stream wood following the 2016 Chimney Tops 2 wildfire: Great Smoky Mountains National Park, Tennessee, USA. River Research and Applications, in press.  [DOI: 10.1002/rra.3765](https://doi.org/DOI: 10.1002/rra.3765) 
 
-1. Praskievicz, S., and C. Luo*. 2020. Environmental instream flows to support physical habitat for freshwater biodiversity in Alabama’s rivers. Southeastern Naturalist, in press.
+1. Buege*, E., P. Esselman, and S. Praskievicz. 2020. Hydrogeomorphological controls on reach-scale distributions of cichlid nesting sites in a small Central American river. Ecology of Freshwater Fish, in press. [DOI: 10.1111/eff.12580](https://doi.org/DOI: 10.1111/eff.12580)
 
-1. Praskievicz, S. 2020. From Hetch Hetchy to the Cuyahoga: How rivers shaped the American environmental movement. The Professional Geographer, in press. [DOI: 10.1080/00330124.2020.1800494](https://doi.org/DOI: 10.1080/00330124.2020.1800494)
+1. Praskievicz, S., and C. Luo*. 2020. Environmental instream flows to support physical habitat for freshwater biodiversity in Alabama’s rivers. Southeastern Naturalist 19:717-741. [DOI: 10.1656/058.019.0410](https://doi.org/DOI: 10.1656/058.019.0410) 
+
+1. Praskievicz, S. 2020. From Hetch Hetchy to the Cuyahoga: How rivers shaped the American environmental movement. The Professional Geographer 73:26-37. [DOI: 10.1080/00330124.2020.1800494](https://doi.org/DOI: 10.1080/00330124.2020.1800494)
 
 1. Praskievicz, S., S. Carter, J. Dhondia, and M. Follum. 2020. Flood-inundation modeling in an operational context: Sensitivity to topographic resolution and Manning’s n. Journal of Hydroinformatics 22:5. [DOI: 10.2166/hydro.2020.005](https://doi.org/DOI: 10.2166/hydro.2020.005)  
 

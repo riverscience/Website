@@ -6,12 +6,17 @@ output: html_document
 
 ## Peer-reviewed
   
-  
 *student author
 
-1. Praskievicz, S., and R. Sigdel*. 2021. Loading of stream wood following the 2016 Chimney Tops 2 wildfire: Great Smoky Mountains National Park, Tennessee, USA. River Research and Applications, in press.  [DOI: 10.1002/rra.3765](https://doi.org/DOI: 10.1002/rra.3765) 
+1. Praskievicz, S. 2021. How the environment became global. Anthropocene, in press.[DOI:10.1016/j.ancene.2021.100305](https://doi.org/DOI:10.1016/j.ancene.2021.100305)
 
-1. Buege*, E., P. Esselman, and S. Praskievicz. 2020. Hydrogeomorphological controls on reach-scale distributions of cichlid nesting sites in a small Central American river. Ecology of Freshwater Fish, in press. [DOI: 10.1111/eff.12580](https://doi.org/DOI: 10.1111/eff.12580)
+
+1. Engstrom, J., S. Praskievicz, B. Bearden, and H. Moradkani. 2021. Decreasing water resources in Southeastern US as observed by the GRACE satellites. Water Policy, in press. [DOI: 10.2166/wp.2021.039](https://doi.org/DOI: 10.2166/wp.2021.039)
+
+
+1. Praskievicz, S., and R. Sigdel*. 2021. Loading of stream wood following the 2016 Chimney Tops 2 wildfire: Great Smoky Mountains National Park, Tennessee, USA. River Research and Applications 37:475-483. DOI: 10.1002/rra.3765  [DOI: 10.1002/rra.3765](https://doi.org/DOI: 10.1002/rra.3765) 
+
+1. Buege*, E., P. Esselman, and S. Praskievicz. 2021. Hydrogeomorphological controls on reach-scale distributions of cichlid nesting sites in a small Central American river. Ecology of Freshwater Fish 30:244-255. [DOI: 10.1111/eff.12580](https://doi.org/DOI: 10.1111/eff.12580)
 
 1. Praskievicz, S., and C. Luo*. 2020. Environmental instream flows to support physical habitat for freshwater biodiversity in Alabama’s rivers. Southeastern Naturalist 19:717-741. [DOI: 10.1656/058.019.0410](https://doi.org/DOI: 10.1656/058.019.0410) 
 

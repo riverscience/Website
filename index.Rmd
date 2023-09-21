@@ -5,7 +5,7 @@ output: html_document
 
 <div class="col-sm-6">
 
-![](images/photo3.jpg)
+![](images/Brent.jpeg)
 
 
 Our regional focus is on the beautifully diverse and

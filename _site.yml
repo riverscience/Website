@@ -14,6 +14,9 @@ navbar:
     - text: "Team"
       icon: fa-people-carry
       href: Team.html
+    - text: "Contact us"
+      href: Contact_US.html
+      icon: fa-address-book
 output_dir: "docs"
 output:
   html_document:

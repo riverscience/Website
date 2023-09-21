@@ -4,14 +4,21 @@ title: "Contact US"
 output: html_document
 ---
 
+<br>
 
 Our Department is located in beautiful city of Greensboro, North Carolina. 
+
+<br>
 
 Graham Bldg 1009 Spring Garden St, <br>
 Greensboro, NC 27412
 
+<br>
 
 If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT uncg.edu
+
+<br>
+
 
 <p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1917.6720446450565!2d-79.80803956759858!3d36.06600396488527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8853191551a62be1%3A0x2064bd77398457ec!2sGraham%20Bldg%2C%201009%20Spring%20Garden%20St%2C%20Greensboro%2C%20NC%2027412!5e0!3m2!1sen!2sus!4v1695313132989!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

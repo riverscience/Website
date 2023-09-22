@@ -43,7 +43,7 @@ sensing, geospatial analysis, and fieldwork.
 
 <div class="col-sm-6">
 
-![](images/photo2.jpg)
+![](images/photo3.jpg)
 
 </div>
 

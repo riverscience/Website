@@ -36,11 +36,6 @@ management.
 We use a range of different methods, including computational modeling, remote
 sensing, geospatial analysis, and fieldwork.
 
-
-
-
-
-
 <div class="col-sm-6">
 
 

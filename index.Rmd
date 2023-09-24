@@ -39,6 +39,7 @@ sensing, geospatial analysis, and fieldwork.
 <div class="col-sm-6">
 
 
+
 <img src="images/photo2.jpg" usemap="#image-map">
 
 

@@ -87,8 +87,39 @@ traveled and hiked on six continents.
 \
 \
 
+---
+
+<div class="col-sm-5">
+
+<img src="images/Nicole.png" title="Nicole">
+
+
+
+</div>
+
+**Nicole Rusden, Ph.D. student:**Nicole is a Ph.D. student originally from Pennsylvania where she spent her childhood riding mountain bikes, hiking, and camping, which helped nurture an appreciation for nature.  She earned her M.S. in Earth and Environmental Science from the University of West Florida in 2023 and a bachelor's degree in environmental science with a minor in geology at Brevard College in 2021. At which, she also raced mountain bikes for the Brevard College cycling team competing in national competitions across the country.
+
+
+
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+\
+
 
 ---
+
+
 
 <div class="col-sm-5">
 
@@ -122,6 +153,9 @@ climbing, or paddling trips with his German Shorthair pointer, Miss Kitty.
 
 
 ---
+
+
+
 
 <div class="col-sm-4">
 

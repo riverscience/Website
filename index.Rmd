@@ -5,7 +5,8 @@ output: html_document
 
 <div class="col-sm-6">
 
-![](images/Photo3.jpg)
+<img src="images/Photo3.jpg" title="Dr. Praskievicz in a river">
+
 
 
 Our regional focus is on the beautifully diverse and
@@ -38,6 +39,8 @@ sensing, geospatial analysis, and fieldwork.
 
 <div class="col-sm-6">
 
+
+<img src="images/Photo2.jpg" title="Dr. Praskievicz with her student in a river">
 
 ![](images/Photo2.jpg)
 

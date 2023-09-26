@@ -42,7 +42,6 @@ sensing, geospatial analysis, and fieldwork.
 
 <img src="images/Photo2.jpg" title="Dr. Praskievicz with her student in a river">
 
-![](images/Photo2.jpg)
 
 
 

@@ -91,7 +91,7 @@ traveled and hiked on six continents.
 
 <div class="col-sm-5">
 
-<img src="images/Nicole.png" title="Nicole">
+<img src="images/Nicole1.jpg" title="Nicole">
 
 
 
@@ -105,15 +105,6 @@ traveled and hiked on six continents.
 \
 \
 \
-\
-\
-\
-\
-\
-\
-\
-\
-
 \
 
 

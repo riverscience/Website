@@ -12,7 +12,20 @@ Our Department is located in beautiful city of Greensboro, North Carolina.
 Graham Bldg 1009 Spring Garden St, <br>
 Greensboro, NC 27412
 
-[Click here](https://ges.uncg.edu/){target="_blank"} to visit the department's website
+
+<style>
+
+.primary-btn:hover {
+padding: 3px;
+color: blue;
+background-color: grey;
+}
+
+}
+
+</style>
+
+<a class= "primary-btn" href = "https://ges.uncg.edu" target="_blank" > Click here </a> to visit the department's website
 
 If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT uncg.edu
 

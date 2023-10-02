@@ -4,6 +4,36 @@ title: "Contact US"
 output: html_document
 ---
 
+<style>
+
+.try {
+  width: 100px;
+  margin: 2px;
+  height: 100px;
+  display: flex;
+  background-color: purple;
+  margin: 20px;
+  animation-duration: 2s;
+  animation-name: abc;
+  animation-iteration-count: infinite;
+}
+
+@keyframes abc {
+  from {border: 0px; 
+    background-color:purple; transform:rotate(90deg)}
+  to {border-radius: 50%; background-color: red}
+	
+}
+
+</style>
+
+<div class="try">
+
+</div>
+
+
+
+
 <br>
 
 Our Department is located in beautiful city of Greensboro, North Carolina. 
@@ -30,6 +60,10 @@ background-color: grey;
 If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT uncg.edu
 
 <br>
+
+
+
+
 
 
 <style>

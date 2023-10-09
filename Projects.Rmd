@@ -1,9 +1,42 @@
 ---
-title: "Projects"
 output: html_document
 ---
 
 \
+
+
+
+<div class="ani">
+  <h1>
+  Projects
+</h1>
+</div>
+
+
+<style type="text/css">
+
+.ani {
+  width: 120px;
+  position: relative
+}
+
+.ani h1::before {
+  content: "Projects";
+  position: absolute;
+  width: 100%;
+  color: red;
+  border-right: 2px solid red;
+  overflow: hidden;
+  animation: textreveal 3s linear infinite; 
+}
+
+@keyframes textreveal {
+  0% {width: 0;}
+  50% {width: 100%}
+  100% {width: 0}
+}
+
+</style>
 
 
 <style type="text/css">

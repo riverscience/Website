@@ -11,7 +11,7 @@
 
 
 
-<title>Projects</title>
+<title>Projects.knit</title>
 
 <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -292,13 +292,41 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Projects</h1>
 
 </div>
 
 
 <p><br />
 </p>
+<div class="ani">
+<h1>
+Projects
+</h1>
+</div>
+<style type="text/css">
+
+.ani {
+  width: 120px;
+  position: relative
+}
+
+.ani h1::before {
+  content: "Projects";
+  position: absolute;
+  width: 100%;
+  color: red;
+  border-right: 2px solid red;
+  overflow: hidden;
+  animation: textreveal 3s linear infinite; 
+}
+
+@keyframes textreveal {
+  0% {width: 0;}
+  50% {width: 100%}
+  100% {width: 0}
+}
+
+</style>
 <style type="text/css">
 body {
   font-size: 12pt;

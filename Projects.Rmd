@@ -21,7 +21,7 @@ output: html_document
 }
 
 .ani h1::before {
-  content: "Projects";
+  content: "Projects..";
   position: absolute;
   width: 100%;
   color: red;

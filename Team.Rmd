@@ -120,15 +120,32 @@ traveled and hiked on six continents.
 \
 \
 
+
 ---
+
+
+
+<div class="col-sm-5">
+
+<img src="images/Ayush.jpg" title="Nicole">
+
+</div>
+
+Ayush Chaudhuri, PhD Student: I am from Kolkata, India and I did my bachelors and masters in geology from Presidency University, Kolkata, India. As a master’s student, I became interested towards studying the Earth’s Systems and focusing on hydrogeology and groundwater resources. As a PhD student currently, I am conducting research on the saline water intrusion on the coastal aquifers of North Carolina. My study encompasses the fields of AI modelling, hydrogeophysics, remote sensing and GIS. I am focused on understanding the groundwater dynamics through studies of statistical and geophysical models. Other than this, I am an avid science fiction story writer and love travelling and exploring new places.
+
+\
+
+
+---
+
 
 <div class="col-sm-5">
 
 <img src="images/Nicole1.jpg" title="Nicole">
 
 
-
 </div>
+
 
 **Nicole Rusden, Ph.D. student:**Nicole is a Ph.D. student originally from Pennsylvania where she spent her childhood riding mountain bikes, hiking, and camping, which helped nurture an appreciation for nature.  She earned her M.S. in Earth and Environmental Science from the University of West Florida in 2023 and a bachelor's degree in environmental science with a minor in geology at Brevard College in 2021. At which, she also raced mountain bikes for the Brevard College cycling team competing in national competitions across the country.
 

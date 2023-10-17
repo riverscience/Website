@@ -123,6 +123,29 @@ If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT un
 
 
 
+<br>
+
+### You can also use the following form to contact us
+
+<br>
+
+<style type="text/css">
+
+div ul {
+text-decoration:none;
+
+list-style-type: none;
+
+}
+
+.button {
+list-style-type: none;
+
+}
+
+</style>
+
+<div >
 
 
 
@@ -130,7 +153,7 @@ If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT un
 
 
 
-<form action="https://formsubmit.co/rajeshsigdel@gmail.com" method="POST">
+<form action="https://formspree.io/f/xyyqlvee" method="POST">
 
   <ul>
     <li>
@@ -148,11 +171,11 @@ If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT un
      <br> 
     
     
-    <label for="cars">What degree would you like to puruse:</label>
-  <select id="cars" name="cars">
-    <option value="volvo"> Bachelor Degree </option>
-    <option value="saab">Master Degree</option>
-    <option value="mercedes">PhD Degree </option>
+    <label for="degree">What degree would you like to puruse:</label>
+  <select id="degree" name="degrees">
+    <option value="Bacehlor"> Bachelor Degree </option>
+    <option value="Masters">Master Degree</option>
+    <option value="Ph.D">Ph.D Degree </option>
     
   </select>
     
@@ -167,9 +190,7 @@ If you have any other inquiries, please contact Dr. Praskievicz.  sjpraski AT un
  <button type="submit">Send</button>
 </li>
 
-
-
-
-
-
 </form>
+
+
+</div >

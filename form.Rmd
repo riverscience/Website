@@ -1,0 +1,73 @@
+---
+output: html_document
+---
+
+
+### You can also use the following form to contact us
+
+<style type="text/css">
+
+div ul {
+text-decoration:none;
+
+list-style-type: none;
+
+}
+
+.button {
+list-style-type: none;
+
+}
+
+</style>
+
+<div >
+
+
+
+<form action="https://formsubmit.co/el/xixako" method="POST">
+
+  <ul>
+    <li>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="user_name" />
+    </li>
+    
+    <br> 
+    
+    <li>
+      <label for="mail">Email:</label>
+      <input type="email" id="mail" name="user_email" />
+    </li>
+    
+     <br> 
+    
+    
+    <label for="cars">What degree would you like to puruse:</label>
+  <select id="cars" name="cars">
+    <option value="volvo"> Bachelor Degree </option>
+    <option value="saab">Master Degree</option>
+    <option value="mercedes">PhD Degree </option>
+    
+  </select>
+    
+    
+    <li>
+      <label for="msg">Message:</label>
+      <textarea id="msg" name="user_message"></textarea>
+    </li>
+  </ul>
+
+
+ <button type="submit">Send</button>
+</li>
+
+
+
+
+
+
+</form>
+
+
+

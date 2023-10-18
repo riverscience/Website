@@ -3,7 +3,7 @@ output: html_document
 ---
 
 
-<div class="ani">
+<div id = "top" class="ani">
   <h1>
   Publications..
 </h1>
@@ -11,6 +11,10 @@ output: html_document
 
 
 <style type="text/css">
+
+html {
+  scroll-behavior: smooth;
+}
 
 .ani {
   width: 200px;
@@ -138,4 +142,24 @@ img {
 1. Praskievicz, S. 2019. “Reading a river” through Google Scholar hyperlinks: Comparing four major international river systems. In Handbook of the Changing World Language Map, eds. S. Brunn and R. Kehrein. Berlin, Germany: Springer.
 
 1. Cohen, S., S. Praskievicz, and D.R. Maidment. 2018. Featured Collection introduction: National Water Model. Journal of the American Water Resources Association 54:767-769. [DOI: 10.1111/1752-1688.12664](https://doi.org/10.1111/1752-1688.12664)
+
+
+<br>
+
+
+<style type="text/css">
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    padding: 5px;
+}
+
+
+</style>
+
+<a href="#top" class="button">Click here to go to top</a>
 
